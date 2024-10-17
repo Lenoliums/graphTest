@@ -1,0 +1,16 @@
+svg{
+    display: block;
+    width: 100vw;
+    margin: 0;
+    height: 80vh;
+}
+#node_rect{
+    filter: drop-shadow( 3px 3px 1px rgba(0, 0, 0, .3));
+    fill: #f5e7f4;
+}
+.rect-text{
+    font-size: 0.7em;
+}
+#node_rect{
+    cursor: move;
+}
